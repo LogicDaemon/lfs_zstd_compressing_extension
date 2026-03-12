@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Git LFS repository reference
+git-lfs/
+
+# Build outputs
+/lfs-zstd-filter
+/lfs-zstd-filter.exe

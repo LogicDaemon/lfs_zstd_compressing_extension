@@ -1,0 +1,8 @@
+{
+        "chat.tools.terminal.autoApprove": {
+                "/^git lfs ext$/": {
+                        "approve": true,
+                        "matchCommandLine": true
+                }
+        }
+}
